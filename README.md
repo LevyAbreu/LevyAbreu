@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LevyAbreu
-- 👀 I’m Dev
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me @vyxzz on Instagram
-- ⚡ Fun fact: i'm calm and kind, i like everthings
+- 👀 Graduando em Engenharia de Software
+- 🌱 Estudando intensamente Flutter/dart
+- 📫 Me contate em: @vyxzz no Instagram
+- ⚡ Sou tranquilo e sociavel, não me vejo desgostando de algo
