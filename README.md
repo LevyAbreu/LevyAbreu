@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LevyAbreu
+- 👀 I’m Dev
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me @vyxzz on Instagram
+- ⚡ Fun fact: i'm calm and kind, i like everthings
