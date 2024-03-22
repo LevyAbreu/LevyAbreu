@@ -1,59 +1,19 @@
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
+# printf("Hello World! I'm Levy")
 
-def generate_data():
-    data = {
-        'Linguagem': ['Python', 'Dart', 'C++', 'C', 'Java'],
-        'Dominio': [35, 30, 20, 10, 5],
-        'Color': ['#e5d720', '#370c5f', '#20afe5', '#203ee5', '#e8401c']
-    }
-    return pd.DataFrame(data)
+<table>
+  <a href="https://github.com/leehxd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+</table>
 
-def display_horizontal_line(data):
-    fig, ax = plt.subplots(figsize=(100, 1))
-    fig.patch.set_facecolor('none')
-    ax.set_yticks([])
-    ax.set_xlim(0, 100)
-    ax.set_ylim(0, 0)
-    for index, row in data.iterrows():
-        ax.barh(0, row['Dominio'], color=row['Color'], left=data['Dominio'][:index].sum(), linewidth=0)
-    ax.grid(False)
-    ax.xaxis.set_tick_params(labelbottom=False)
-    for spine in ax.spines.values():
-        spine.set_visible(False)
-
-    st.pyplot(fig)
-
-def display_legend(data):
-    fig, ax = plt.subplots(figsize=(5, 2))
-    fig.patch.set_facecolor('none')
-
-    n_items = len(data)
-    n_cols = 2
-    n_rows = -(-n_items // n_cols)
-
-    for index, row in data.iterrows():
-        col = index % n_cols
-        row_ = index // n_cols
-        x = col * 4 + 1.2 
-        y = 1 - row_ * 0.8
-        ax.scatter(x, y, color=row['Color'], s=90, marker='o')
-        ax.text(x + 0.2, y, f"{row['Linguagem']} ({row['Dominio']})", verticalalignment='center', fontsize=7, color='yellow', fontstyle='italic')
-
-    ax.axis('off')
-
-    st.pyplot(fig)
-
-def main():
-    st.markdown("<h1 style='color: white; margin-bottom: 0;'>printf(''Hello World, i'm Levy'')</h1>", unsafe_allow_html=True)
-    st.markdown("<hr style='border: 1px solid #3a3a3a; margin: 1px 0;'>", unsafe_allow_html=True)
-    st.markdown("<h1 style='color: #5162c3; margin-top: 10;'>My degree of familiarity with each language</h1>", unsafe_allow_html=True)
-
-    data = generate_data()
-
-    display_horizontal_line(data)
-    display_legend(data)
-
-if __name__ == "__main__":
-    main()
+<div> 
+  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticiajm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
