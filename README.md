@@ -13,7 +13,7 @@
 </table>
 
 <div> 
-  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank">![Static Badge](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=%23d62c2c)</a>
   <a href="https://www.linkedin.com/in/leticiajm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
