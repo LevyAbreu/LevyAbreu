@@ -1,21 +1,33 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 
-<table>
-  <a href="https://github.com/LevyAbreu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/color/2x/dart.png" width="12%" alt="dart">
-  <img src="https://img.icons8.com/color/2x/flutter.png" width="12%" alt="flutter">
-  <img src="https://img.icons8.com/color/2x/python.png" width="12%" alt="python">
-  <img src="https://img.icons8.com/color/2x/figma.png" width="12%" alt="figma">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="12%" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="12%" alt="css3">
-</table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffdf&size=35&center=true&vCenter=true&width=1000&lines=print%28"Hello+World!+I'm+Levy+Abreu"%29;)](https://git.io/typing-svg)
+<div>
+  <div align="center">
+    <div>
+      <a href="https://github.com/LevyAbreu" target="_blank"><img src="https://img.shields.io/badge/Levy_Abreu%20-%20white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white"></a> 
+      <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" 
+      target="_blank"><img src="https://img.shields.io/badge/Levy_Abreu%20-%20%233855f6?style=for-the-badge&logo=linkedin&logoColor=%233855f6&labelColor=black" target="_blank"></a>
+      <a href="https://www.instagram.com/vyxzz_/" target="_blank"><img src="https://img.shields.io/badge/VyXZZ__%20-%20%23f63838?style=for-the-badge&logo=instagram&labelColor=black" target="_blank"></a> 
+      <a href="https://discord.gg/pMvbnY4j" target="_blank"><img src="https://img.shields.io/badge/Lev's_Lobby%20-%20%23bb38f6?style=for-the-badge&logo=discord&logoColor=%23bb38f6&labelColor=black"></a> 
+    </div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </div>
+  <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=LevyAbreu&theme=react&hide_border=true&locale=pt_BR&card_width=500&background=0d1117" alt="My contributions" />
+  </div>
+</div >
+<div align="center"> 
 
-<div> 
-  <a href="https://github.com/LevyAbreu" target="_blank"><img src="https://img.shields.io/badge/Levy_Abreu%20-%20white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white"></a> 
-  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" 
-  target="_blank"><img src="https://img.shields.io/badge/Levy_Abreu%20-%20%233855f6?style=for-the-badge&logo=linkedin&logoColor=%233855f6&labelColor=black" target="_blank"></a>
-  <a href="https://www.instagram.com/vyxzz_/" target="_blank"><img src="https://img.shields.io/badge/VyXZZ__%20-%20%23f63838?style=for-the-badge&logo=instagram&labelColor=black" target="_blank"></a> 
-  <a href="https://discord.gg/pMvbnY4j" target="_blank"><img src="https://img.shields.io/badge/Lev's_Lobby%20-%20%23bb38f6?style=for-the-badge&logo=discord&logoColor=%23bb38f6&labelColor=black"></a> 
+### Main skills:
+
+  <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="20%" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="20%" alt="css3">
+
+### Studying in this moment:
+  <img src="https://img.icons8.com/color/2x/dart.png" width="20%" alt="dart">
+  <img src="https://img.icons8.com/color/2x/flutter.png" width="20%" alt="flutter">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
