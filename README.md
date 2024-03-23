@@ -1,4 +1,4 @@
-# printf("Hello World! I'm Levy")
+<h1 style="color:#3D64F1D6;">printf("Hello World! I'm Levy")</h1>
 
 <table>
   <a href="https://github.com/LevyAbreu">
@@ -6,9 +6,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/dart.png" width="20%" alt="dart">
   <img src="https://img.icons8.com/color/2x/flutter.png" width="20%" alt="flutter">
+  <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
+  <img src="https://img.icons8.com/color/2x/figma.png" width="20%" alt="figma">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="20%" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="20%" alt="css3">
-  <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
 </table>
 
 <div> 
