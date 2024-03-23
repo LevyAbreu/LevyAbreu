@@ -10,11 +10,15 @@
       <a href="https://www.instagram.com/vyxzz_/" target="_blank"><img src="https://img.shields.io/badge/VyXZZ__%20-%20%23f63838?style=for-the-badge&logo=instagram&labelColor=black" target="_blank"></a> 
       <a href="https://discord.gg/pMvbnY4j" target="_blank"><img src="https://img.shields.io/badge/Lev's_Lobby%20-%20%23bb38f6?style=for-the-badge&logo=discord&logoColor=%23bb38f6&labelColor=black"></a> 
     </div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/LevyAbreu" target="_blank">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </a>
   </div>
   <div align="center">
+    <a href="https://github.com/LevyAbreu" target="_blank">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=LevyAbreu&theme=react&hide_border=true&locale=pt_BR&card_width=500&background=0d1117" alt="My contributions" />
+    </a>
   </div>
 </div >
 <div align="center"> 
