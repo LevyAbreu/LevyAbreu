@@ -1,4 +1,4 @@
-<h1 style="color:#7C95F1D6;">printf("Hello World! I'm Levy")</h1>
+# printf("Hello World! I'm Levy");
 
 <table>
   <a href="https://github.com/LevyAbreu">
