@@ -26,6 +26,7 @@
 ### Main skills:
 
   <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
+  <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="20%" alt="java">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="20%" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="20%" alt="css3">
 
