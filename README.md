@@ -24,6 +24,7 @@
   </div >
   <div align="center"> 
 </a>
+    
 ### Main skills:
 
   <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
