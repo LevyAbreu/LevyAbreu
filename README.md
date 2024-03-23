@@ -13,8 +13,7 @@
 </table>
 
 <div> 
-  <a href="https://www.instagram.com/vyxzz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/LevyAbreu" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=github&logoColor=%23ffffff
-  " target="_blank"></a> 
+  <a href="https://www.instagram.com/vyxzz_/" target="_blank"><img src="https://img.shields.io/badge/Instagram%20-%20%23f63838?style=for-the-badge&logo=instagram&labelColor=black" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-levy-abreu-276b31275/" target="_blank"><img src="https://img.shields.io/badge/Linkedin%20-%20%233855f6?style=for-the-badge&logo=linkedin&logoColor=%233855f6&labelColor=black" target="_blank"></a> 
+  <a href="https://github.com/LevyAbreu" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-%20white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=white"></a> 
 </div>
