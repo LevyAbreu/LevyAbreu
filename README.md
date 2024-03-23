@@ -2,8 +2,8 @@
 
 <table>
   <a href="https://github.com/LevyAbreu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/html-5.png" width="20%" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
   <img src="https://img.icons8.com/color/2x/dart.png" width="20%" alt="dart">
