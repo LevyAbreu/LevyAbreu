@@ -22,18 +22,20 @@
       </a>
     </div>
   </div >
-  <div align="center"> 
+  <div align="center">
 </a>
-    
+
 ### Main skills:
   <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
-  <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="20%" alt="java">
+  <img src="https://img.icons8.com/color/2x/c-sharp-logo" width="20%" alt="java">
+  <img src="https://img.icons8.com/color/2x/c-programming" width="20%" alt="java">
+  <img src="https://img.icons8.com/color/2x/dart.png" width="20%" alt="dart">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="20%" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="20%" alt="css3">
 
 ### Studying in this moment:
-  <img src="https://img.icons8.com/color/2x/dart.png" width="20%" alt="dart">
   <img src="https://img.icons8.com/color/2x/flutter.png" width="20%" alt="flutter">
+  <img src="https://img.icons8.com/color/2x/unity.png" width="20%" alt="unity">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
