@@ -33,6 +33,7 @@
   <img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="10%" alt="C#">
   <img src="https://img.icons8.com/color/2x/c-programming.png" width="10%" alt="C">
   <img src="https://img.icons8.com/color/2x/dart.png" width="10%" alt="dart">
+  </br>
   <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="10%" alt="C++">
   <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="10%" alt="Java">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="10%" alt="HTML5">
