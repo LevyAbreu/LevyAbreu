@@ -29,14 +29,14 @@
 
 <span style="color: #ff69b4;">Main skills:</span>
 
-  <img src="https://img.icons8.com/color/2x/python.png" width="20%" alt="python">
-  <img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="20%" alt="C#">
-  <img src="https://img.icons8.com/color/2x/c-programming.png" width="20%" alt="C">
-  <img src="https://img.icons8.com/color/2x/dart.png" width="20%" alt="dart">
-  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="20%" alt="C++">
-  <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="20%" alt="Java">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="20%" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="20%" alt="css3">
+  <img src="https://img.icons8.com/color/2x/python.png" width="10%" alt="python">
+  <img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="10%" alt="C#">
+  <img src="https://img.icons8.com/color/2x/c-programming.png" width="10%" alt="C">
+  <img src="https://img.icons8.com/color/2x/dart.png" width="10%" alt="dart">
+  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="10%" alt="C++">
+  <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="10%" alt="Java">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="10%" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="10%" alt="css3">
 
 <span style="color: #ff69b4;">Studying in this moment:</span>
 
