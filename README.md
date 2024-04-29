@@ -41,8 +41,8 @@
 
 <span style="color: #ff69b4;">Studying in this moment:</span>
 
-  <img src="https://img.icons8.com/color/2x/flutter.png" width="20%" alt="flutter">
-  <img src="https://img.icons8.com/color/2x/unity.png" width="20%" alt="unity">
+  <img src="https://img.icons8.com/color/2x/flutter.png" width="10%" alt="flutter">
+  <img src="https://img.icons8.com/color/2x/unity.png" width="10%" alt="unity">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
