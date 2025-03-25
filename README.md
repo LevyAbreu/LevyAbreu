@@ -1,72 +1,80 @@
 <a href="https://github.com/LevyAbreu" target="_blank">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==0000FF&size=35&center=true&vCenter=true&width=1000&lines=print%28%22Hello+World!+I'm+Levy+Abreu%22%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Levy)](https://git.io/typing-svg)
 
+<table style="border-collapse: collapse; border: 0px solid #00000000;">
+
+  <tr>
+    <td width="50%" valign="top">
+
+### About me
 I'm a passionate developer with experience in multiple programming languages, frameworks, and tools. Here, you'll find a vibrant collection of projects where I explore:
-
 - 💻 Software development
-- 🎮 Game development
-- 🖌️ Creative coding
+- 🎮 Games development
+- 🖌️ Creative Coding
 
-Feel free to explore, collaborate, and get inspired. Let's create something amazing together!
+### 🌟 Languages & Tools
+  #### Linguagens
 
----
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-## 🌟 Languages & Tools
-<div align="center">
+  ---
+  #### Frameworks
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  
+  ---
+  #### API's
 
- <img src="https://img.icons8.com/color/2x/python.png" width="10%" alt="python">
- <img src="https://img.icons8.com/color/2x/c-sharp-logo.png" width="10%" alt="C#">
- <img src="https://img.icons8.com/color/2x/c-programming.png" width="10%" alt="C">
- <img src="https://img.icons8.com/color/2x/dart.png" width="10%" alt="dart">
-</br>
- <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="10%" alt="C++">
- <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="10%" alt="Java">
- <img src="https://img.icons8.com/color/2x/html-5.png" width="10%" alt="HTML5">
- <img src="https://img.icons8.com/color/2x/css3.png" width="10%" alt="css3">
-</br>
- <img src="https://img.icons8.com/color/2x/flutter.png" width="10%" alt="flutter">
- <img src="https://img.icons8.com/color/2x/unity.png" width="10%" alt="unity">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/flask-qvsfwhwywucb6zv0d7ce.png/flask-1byb2jlw6nwim4nx2248xg.png?_a=DAJFJtWIZAAC" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+
+  ---
+  #### Databases
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+
+  ---
+
+  #### Tools
+
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</td>
+
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </div>
+<div align=center>
+
+  [![GitHub](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyAbreu)
+  [![Instagram](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyzz.__/)
+
 </div>
 
----
+</td>
+  </tr>
+</table>
 
-## 📫 Let's Connect
-
-I'm always happy to collaborate, share knowledge, or just connect with like-minded people! Feel free to reach out to me on any of the platforms below:
-
-- 🌐 [GitHub](https://github.com/LevyAbreu)
-- 📸 [Instagram](https://www.instagram.com/__vyzz__/)
-- 💼 [LinkedIn](https://br.linkedin.com/in/victor-levy-abreu-276b31275?trk=people-guest_people_search-card)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Levy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=radical)
-</br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🎮 Current Focus
-
-I enjoy exploring and creating projects in areas such as:
-
-- Game development with **Unity**.
-- Mobile apps using **Flutter**.
-- Full-stack development with **Python** and **MySQL**.
-- Experimenting with **UI/UX** design for better user experiences.
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
 </a>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
