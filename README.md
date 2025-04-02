@@ -12,7 +12,7 @@
 ### About me
 I'm a passionate developer with experience in multiple programming languages, frameworks, and tools. Here, you'll find a vibrant collection of projects where I explore:
 - 💻 Software development
-- 🎮 Games development
+- 📱 Mobile development
 - 🖌️ Creative Coding
 
 ### 🌟 Languages & Tools
