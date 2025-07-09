@@ -1,5 +1,3 @@
-<a href="https://github.com/LevyAbreu" target="_blank">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Levy)](https://git.io/typing-svg)
@@ -66,6 +64,8 @@ I'm a passionate developer with experience in multiple programming languages, fr
   [![GitHub](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyAbreu)
   [![Instagram](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyzz.__/)
 
+### Featured projects
+[HealthHub](https://levyabreu.github.io/HealthHub/)
 </div>
 
 </td>
@@ -73,5 +73,3 @@ I'm a passionate developer with experience in multiple programming languages, fr
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
-
-</a>
