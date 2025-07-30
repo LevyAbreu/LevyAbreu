@@ -66,6 +66,8 @@ I'm a passionate developer with experience in multiple programming languages, fr
 
 ### Featured projects
 [HealthHub](https://levyabreu.github.io/HealthHub/)
+<br>
+[Verbum](https://levyabreu.github.io/Verbum)
 </div>
 
 </td>
