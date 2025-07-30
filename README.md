@@ -20,12 +20,12 @@ I'm a passionate developer with experience in multiple programming languages, fr
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="csharp" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="40" height="40"/>
 
   #### Frameworks
   <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="reactnative" width="40" height="40"/>
@@ -33,7 +33,7 @@ I'm a passionate developer with experience in multiple programming languages, fr
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=19964B" alt="django" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=19964B" alt="flask" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="vuejs" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="vuejs" width="40" height="40"/>
 
   #### Databases
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" width="40" height="40"/>
