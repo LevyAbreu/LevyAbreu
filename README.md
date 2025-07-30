@@ -17,40 +17,37 @@ I'm a passionate developer with experience in multiple programming languages, fr
   #### Linguagens
 
   <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="csharp" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="dart" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="javascript" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="java" width="40" height="40"/>
 
   #### Frameworks
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  
-  #### API's
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/flask-qvsfwhwywucb6zv0d7ce.png/flask-1byb2jlw6nwim4nx2248xg.png?_a=DAJFJtWIZAAC" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="reactnative" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="flutter" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=19964B" alt="django" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=19964B" alt="flask" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" alt="vuejs" width="40" height="40"/>
 
   #### Databases
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" alt="firebase" width="40" height="40"/>
 
 
   #### Tools
 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="unity" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=000000" alt="unreal" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" alt="arduino" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=WZmdy8iimo15&format=png&color=000000" alt="bash" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/>
 </td>
 
 <td width="50%" valign="top">
