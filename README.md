@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Levy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==61DAFB&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Levy)](https://git.io/typing-svg)
 
 <table style="border-collapse: collapse; border: 0px solid #00000000;">
 
@@ -16,7 +16,7 @@ I'm a passionate developer with experience in multiple programming languages, fr
 ### 🌟 Languages & Tools
   #### Linguagens
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -55,23 +55,23 @@ I'm a passionate developer with experience in multiple programming languages, fr
 
 <td width="50%" valign="top">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LevyAbreu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=10&theme=react&bg_color=0d1117&hide_border=true&hide=css=true"/>
   </div>
 <div align=center>
 
-  [![GitHub](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyAbreu)
-  [![Instagram](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyzz.__/)
+  [![GitHub](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyAbreu)
+  [![Instagram](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyzz.__/)
 
 ### Featured projects
-[HealthHub](https://levyabreu.github.io/HealthHub/)
+[![HealthHub](https://img.shields.io/badge/HealthHub-ffffff?style=flat&labelColor=007BFF&color=007BFF)](https://levyabreu.github.io/HealthHub/)
 <br>
-[Verbum](https://levyabreu.github.io/Verbum)
+[![Verbum](https://img.shields.io/badge/Verbum-007BFF?style=flat&labelColor=E0E0E0&color=E0E0E0)](https://levyabreu.github.io/Verbum)
 </div>
 
 </td>
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
