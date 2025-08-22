@@ -18,7 +18,7 @@ I'm a passionate developer with experience in multiple programming languages, fr
 
   <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="csharp" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="csharp" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="dart" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/>
