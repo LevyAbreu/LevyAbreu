@@ -62,7 +62,7 @@ I'm a passionate developer with experience in multiple programming languages, fr
   [![Instagram](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyzz.__/)
 
 ### Featured projects
-[![HealthHub](https://img.shields.io/badge/HealthHub-ffffff?style=flat&labelColor=007BFF&color=007BFF)](https://levyabreu.github.io/HealthHub/)
+[![HealthHub](https://img.shields.io/badge/HealthHub-ffffff?style=flat&labelColor=007BFF&color=007BFF)](https://health-hub-ruddy.vercel.app)
 <br>
 [![PayPlanner](https://img.shields.io/badge/PayPlanner-19AA4E?style=flat&labelColor=121826&color=121826)](https://pay-planner.vercel.app/login.html)
 <br>
