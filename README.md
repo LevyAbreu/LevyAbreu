@@ -64,6 +64,8 @@ I'm a passionate developer with experience in multiple programming languages, fr
 ### Featured projects
 [![HealthHub](https://img.shields.io/badge/HealthHub-ffffff?style=flat&labelColor=007BFF&color=007BFF)](https://levyabreu.github.io/HealthHub/)
 <br>
+[![PayPlanner](https://img.shields.io/badge/PayPlanner-19AA4E?style=flat&labelColor=121826&color=121826)](https://pay-planner.vercel.app/login.html)
+<br>
 [![Verbum](https://img.shields.io/badge/Verbum-007BFF?style=flat&labelColor=E0E0E0&color=E0E0E0)](https://levyabreu.github.io/Verbum)
 </div>
 
