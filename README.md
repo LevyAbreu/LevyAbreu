@@ -65,6 +65,8 @@ I'm a passionate developer with experience in multiple programming languages, fr
 [![HealthHub](https://img.shields.io/badge/HealthHub-ffffff?style=flat&labelColor=007BFF&color=007BFF)](https://health-hub-ruddy.vercel.app)
 <br>
 [![PayPlanner](https://img.shields.io/badge/PayPlanner-19AA4E?style=flat&labelColor=121826&color=121826)](https://pay-planner.vercel.app/login.html)
+<br>
+[![StayLy](https://img.shields.io/badge/StayLy-E91E63?style=flat&labelColor=E91E63&color=E91E63)](https://stayly.vercel.app/login.html)
 </div>
 
 </td>
