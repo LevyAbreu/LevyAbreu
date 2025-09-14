@@ -23,7 +23,7 @@
 
 <!-- Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/LevyAbreu" target="_blank">
+  <a href="www.linkedin.com/in/victor-levy-abreu-276b31275" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.instagram.com/p4checo.lv" target="_blank">
