@@ -1,76 +1,105 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==61DAFB&size=35&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Levy)](https://git.io/typing-svg)
-
-<table style="border-collapse: collapse; border: 0px solid #00000000;">
-
-  <tr>
-    <td width="50%" valign="top">
-
-### About me
-I'm a passionate developer with experience in multiple programming languages, frameworks, and tools. Here, you'll find a vibrant collection of projects where I explore:
-- 💻 Software development
-- 📱 Mobile development
-- 🖌️ Creative Coding
-
-### 🌟 Languages & Tools
-  #### Linguagens
-
-  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cplusplus" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="csharp" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="40" height="40"/>
-
-  #### Frameworks
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="reactnative" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="flutter" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=qULYrKvr-AFH&format=png&color=19964B" alt="django" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=19964B" alt="flask" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="vuejs" width="40" height="40"/>
-
-  #### Databases
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="mysql" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" alt="firebase" width="40" height="40"/>
-
-
-  #### Tools
-
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="unity" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=38240&format=png&color=000000" alt="unreal" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" alt="arduino" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=WZmdy8iimo15&format=png&color=000000" alt="bash" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40" height="40"/>
-</td>
-
-<td width="50%" valign="top">
-  <div align="center">
-    <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LevyAbreu&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117" />
-    <br/>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&langs_count=10&theme=react&bg_color=0d1117&hide_border=true&hide=css=true"/>
-  </div>
-<div align=center>
-
-  [![GitHub](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyAbreu)
-  [![Instagram](https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyzz.__/)
-
-### Featured projects
-[![HealthHub](https://img.shields.io/badge/HealthHub-ffffff?style=flat&labelColor=007BFF&color=007BFF)](https://healthhub-ten.vercel.app/pages/login.html)
-<br>
-[![PayPlanner](https://img.shields.io/badge/PayPlanner-19AA4E?style=flat&labelColor=121826&color=121826)](https://pay-planner.vercel.app/login.html)
-<br>
-[![StayLy](https://img.shields.io/badge/StayLy-E91E63?style=flat&labelColor=E91E63&color=E91E63)](https://stayly.vercel.app/login.html)
+<div align="center">
+<!-- Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 </div>
 
-</td>
-  </tr>
-</table>
+<!-- Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+I'm+LevyAbreu;+Welcome+to+my+profile!" />
+</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+<!-- About -->
+<h3 align="center">💫 About Me</h3>
+<h4 align="left">
+🌟 Began the journey with Software Development in Python<br/>
+💼 I work on front-end development and web when I am bored<br/>
+🎓 Currently pursuing a degree in Software Engineering<br/>
+💬 Ask me about: Full Stack Development, Python, Flutter, Web Dev<br/>
+🤖 Interests: AI, Machine Learning, Deep Learning, Data Science, Automation
+</h4>
+
+---
+
+<!-- Badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/LevyAbreu" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/p4checo.lv" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
+<div>
+  <a href="https://github.com/LevyAbreu" target="_blank">
+    <img alt="Followers" src="https://img.shields.io/github/followers/LevyAbreu?style=for-the-badge&color=ff6a00&logo=github"/>
+  </a>
+  <a href="https://github.com/LevyAbreu?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Stars" src="https://img.shields.io/github/stars/LevyAbreu?style=for-the-badge&color=ffcc00&logo=github"/>
+  </a>
+</div>
+
+---
+
+<!-- GIF -->
+<img align="center" alt="coding-gif" width="400" src="https://camo.githubusercontent.com/64caf9016869591bbcf79720ad78d0645d4ae11549961c8f47f9cb595838b2e3/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333">
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dart,js,ts,py,html,css,java,react,flutter,nodejs,django,flask,vuejs,mysql,firebase,figma,unity,unreal,arduino,bash,git" />
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LevyAbreu&show_icons=true&theme=dark&hide_border=true&rank_icon=github&border_radius=30"/> 
+  <img height="170" src="https://streak-stats.demolab.com?user=LevyAbreu&theme=dark&hide_border=true&border_radius=30">
+  <br/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevyAbreu&layout=compact&theme=dark&hide_border=true&border_radius=30" alt="Top Languages">
+</div>
+
+---
+
+<!-- Best Repositories -->
+<h3 align="center">⭐️ My Projects</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/LevyAbreu/HealthHub">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=LevyAbreu&repo=HealthHub&theme=dark&hide_border=true&border_radius=30" />
+  </a>
+  <a href="https://github.com/LevyAbreu/PayPlanner">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=LevyAbreu&repo=PayPlanner&theme=dark&hide_border=true&border_radius=30" />
+  </a>
+  <a href="https://github.com/LevyAbreu/StayLy">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=LevyAbreu&repo=StayLy&theme=dark&hide_border=true&border_radius=30" />
+  </a>
+</div>
+
+---
+
+<!-- Contribution Activity -->
+<h3 align="center">📈 Contribution Activity</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LevyAbreu&theme=react-dark" width="100%"/>
+</div>
+
+---
+
+<!-- Quote -->
+<h3 align="center">💡 Random Dev Quote</h3>
+<blockquote align="center">"The best way to predict the future is to invent it." – Alan Kay</blockquote>
+
+---
+
+<!-- Support -->
+<h3 align="center">☕ Support Me</h3>
+<p align="center">
+  <a href="https://buymeacoffee.com/levyabreu"><img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge" /></a>
+</p>
+
+<!-- Footer -->
+<div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+</div>
+</div>
