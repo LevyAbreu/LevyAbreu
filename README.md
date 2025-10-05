@@ -74,6 +74,9 @@
   <a href="https://github.com/LevyAbreu/StayLy">
     <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=LevyAbreu&repo=StayLy&theme=dark&hide_border=true&border_radius=30" />
   </a>
+  <a href="https://github.com/LevyAbreu/CompraGo">
+    <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=LevyAbreu&repo=CompraGo&theme=dark&hide_border=true&border_radius=30" />
+  </a>
 </div>
 
 ---
